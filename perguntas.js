@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Espaço',
+    'O que acontece com alguem no espaço sem traje?',
+    'Desmaia em 15 segundos e o corpo incha, mas não explode'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Corpo Humano',
+    'O corpo brilha no escuro?',
+    'Sim, mas e fraco demais para ver'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Egito Antigo',
+    'Qual era o travesseiro dos egipcios?',
+    'Era de pedra, paramanter a cabeça elevada e afastar insetos'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Animais',
+    'Qual o animal sobrevive no espaço?',
+    'O Tardígrado, um micro animal super resistente'
 )
