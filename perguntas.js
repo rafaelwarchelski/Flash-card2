@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Egito Antigo',
     'Qual era o travesseiro dos egipcios?',
-    'Era de pedra, paramanter a cabeça elevada e afastar insetos'
+    'Era de pedra, para manter a cabeça elevada e afastar insetos'
 )
 
 criaCartao(
